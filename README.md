@@ -1,10 +1,14 @@
 # learning-rust
 
 Installing rust
-`curl -s https://static.rust-lang.org/rustup.sh | sudo sh`
-
+```bash
+curl -s https://static.rust-lang.org/rustup.sh | sudo sh
+```
 Compiling code
-`rustc learnrust.rs`
-
+```bash
+rustc learnrust.rs
+```
 Execute program
-`./learnrust`
+```bash
+./learnrust
+```
